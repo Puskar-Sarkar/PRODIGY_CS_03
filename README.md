@@ -8,10 +8,10 @@ This project is part of my Cyber Security Internship at **Prodigy InfoTech**. It
 
 - ✅ Checks password strength: **Weak**, **Moderate**, or **Strong**
 - ✅ Evaluates:
-  - Minimum length (8+ characters)
-  - Presence of lowercase and uppercase letters
-  - Use of digits
-  - Inclusion of special characters
+  🔹 Minimum length (8+ characters)
+  🔹 Presence of lowercase and uppercase letters
+  🔹 Use of digits
+  🔹 Inclusion of special characters
 - ✅ Provides suggestions to improve weak passwords
 - ✅ Simple and interactive command-line interface
 
@@ -31,5 +31,5 @@ This project is part of my Cyber Security Internship at **Prodigy InfoTech**. It
 1. Make sure you have Python installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PRODIGY_CS_03.git
+   git clone https://github.com/Puskar-Sarkar/PRODIGY_CS_03.git
    cd PRODIGY_CS_03
