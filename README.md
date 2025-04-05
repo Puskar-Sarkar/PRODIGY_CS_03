@@ -7,10 +7,10 @@ This project is part of my Cyber Security Internship at **Prodigy InfoTech**. It
 
 - ✅ Checks password strength: **Weak**, **Moderate**, or **Strong**
 - ✅ Evaluates:
-  -🔹 Minimum length (8+ characters)
-  -🔹 Presence of lowercase and uppercase letters
-  -🔹 Use of digits
-  -🔹 Inclusion of special characters
+  - 🔹 Minimum length (8+ characters)
+  - 🔹 Presence of lowercase and uppercase letters
+  - 🔹 Use of digits
+  - 🔹 Inclusion of special characters
 - ✅ Provides suggestions to improve weak passwords
 - ✅ Simple and interactive command-line interface
 
