@@ -4,7 +4,7 @@ def check_password_strength(password):
     uppercase_criteria = re.search(r'[A-Z]', password) is not None
     lowercase_criteria = re.search(r'[a-z]', password) is not None
     number_criteria = re.search(r'[0-9]', password) is not None
-    special_char_criteria = re.search(r'[@$!%*?&]', password) is not None
+    special_char_criteria = re.search(r'[@#$!%*?&]', password) is not None
     criteria_met = sum([length_criteria, uppercase_criteria, lowercase_criteria,
                         number_criteria, special_char_criteria])
     if criteria_met == 5:
