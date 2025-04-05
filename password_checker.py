@@ -27,7 +27,7 @@ def check_password_strength(password):
     if not number_criteria:
         feedback.append("Password should contain at least one number.")
     if not special_char_criteria:
-        feedback.append("Password should contain at least one special character (e.g., @$!%*?&).")
+        feedback.append("Password should contain at least one special character (e.g., @#$!%*?&).")
     return strength, feedback
 if __name__ == "__main__":
     password = input("Enter a password to check its strength: ")
