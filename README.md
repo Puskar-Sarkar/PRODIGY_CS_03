@@ -2,20 +2,18 @@
 
 This project is part of my Cyber Security Internship at **Prodigy InfoTech**. It is a Python-based tool that checks the strength of a password based on several key criteria and provides feedback to help users create stronger, more secure passwords.
 
----
 
 ## 📌 Features
 
 - ✅ Checks password strength: **Weak**, **Moderate**, or **Strong**
 - ✅ Evaluates:
-  🔹 Minimum length (8+ characters)
-  🔹 Presence of lowercase and uppercase letters
-  🔹 Use of digits
-  🔹 Inclusion of special characters
+  -🔹 Minimum length (8+ characters)
+  -🔹 Presence of lowercase and uppercase letters
+  -🔹 Use of digits
+  -🔹 Inclusion of special characters
 - ✅ Provides suggestions to improve weak passwords
 - ✅ Simple and interactive command-line interface
 
----
 
 ## 🧠 What I Learned
 
@@ -24,7 +22,6 @@ This project is part of my Cyber Security Internship at **Prodigy InfoTech**. It
 - Real-time feedback mechanisms for user input
 - Importance of enforcing strong password policies
 
----
 
 ## 🚀 How to Run
 
